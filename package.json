@@ -1,0 +1,8 @@
+{
+  "name": "levro",
+  "version": "1.0.0",
+  "description": "Levro - On-chain perpetual trading platform",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
